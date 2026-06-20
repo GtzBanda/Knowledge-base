@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Jose Gutierrez Music Knowledge Base
 ---
 # Jose Gutierrez Music
 
