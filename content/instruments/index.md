@@ -16,3 +16,12 @@ Welcome to the Instruments section of this knowledge base. This category introdu
 ## Related Categories
 
 Musical instruments are closely connected to [[Recording and Production]], where performances are recorded and refined into professional-quality productions. Instruments also play an important role in [[Performances]], where musicians bring songs to life for live audiences.
+
+## Learning Resources 
+
+The image below shows beginner guitar players learning some of the most common guitar chords. 
+![[assets/learning.jpg]]
+
+## Basic Guitar Chord Chart 
+
+The following PDF provides a quick reference to common guitar chords that beginners can practice. ![[assets/chords.pdf]]
