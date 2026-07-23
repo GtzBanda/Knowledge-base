@@ -58,6 +58,6 @@ Many guitarists even stack two overdrive pedals together to create different lev
 
 - [[electric guitar]]
 - [[guitar amplifiers]]
-- [[Distortion Pedals]]
+- [[distortion]]
 - [[Blues]]
 - [[Rock]]

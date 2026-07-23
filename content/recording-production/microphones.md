@@ -31,4 +31,4 @@ When selecting a microphone, consider where it will be used and what you plan to
 
 ## Related Topics
 
-To continue learning about recording equipment, explore [[Home Studio Basics]], [[Audio Interfaces]], [[Digital Audio Workstations (DAWs)]], and [[Acoustic Guitar]]. These topics explain the tools and techniques used to capture high-quality sound in both home and professional studios.
+To continue learning about recording equipment, explore [[home-studio]], [[audio-interfaces]], [[daws]], and [[acoustic guitar]]. These topics explain the tools and techniques used to capture high-quality sound in both home and professional studios.

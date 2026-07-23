@@ -37,5 +37,5 @@ Some of the most influential jazz musicians include:
 
 ## Related Topics
 
-To continue learning about jazz music, explore [[Electric Guitar]], [[Chorus Pedals]], [[Delay Pedals]], [[Blues]], and [[Recording & Production]]. These topics explain the instruments, effects, and recording techniques that help shape the unique sound of jazz.
-Learn more by visiting [[electric guitar]], [[Chorus Pedals]], [[Delay Pedals]], [[Live Performance Tips]], and [[Rock]].
+To continue learning about jazz music, explore [[electric guitar]], [[chorus]], [[delay]], [[blues]], and [[recording-production/index|recording-production]]. These topics explain the instruments, effects, and recording techniques that help shape the unique sound of jazz.
+Learn more by visiting [[electric guitar]], [[chorus]], [[delay]], [[live-performance]], and [[rock]].

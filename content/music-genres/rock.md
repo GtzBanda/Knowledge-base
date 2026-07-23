@@ -37,4 +37,4 @@ Rock music has evolved into many different styles, including:
 
 ## Related Topics
 
-To continue learning about rock music, explore [[Electric Guitar]], [[Overdrive Pedals]], [[Distortion Pedals]], [[Delay Pedals]], [[Guitar Amplifiers]], and [[Blues]]. These topics explain the instruments, effects, and musical influences that have helped shape the sound of rock.
+To continue learning about rock music, explore [[electric guitar]], [[overdrive]], [[distortion]], [[delay]], [[guitar amplifiers]], and [[blues]]. These topics explain the instruments, effects, and musical influences that have helped shape the sound of rock.

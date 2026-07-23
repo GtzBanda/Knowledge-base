@@ -31,4 +31,4 @@ When selecting a DAW, musicians should consider their experience level, budget, 
 
 ## Related Topics
 
-To continue learning about music production, explore [[Home Studio Basics]], [[Audio Interfaces]], [[Microphones]], and [[Live Performance Tips]]. These topics explain the equipment and techniques commonly used to record, edit, and produce high-quality audio.
+To continue learning about music production, explore [[home-studio]], [[audio-interfaces]], [[microphones]], and [[live-performance]]. These topics explain the equipment and techniques commonly used to record, edit, and produce high-quality audio.

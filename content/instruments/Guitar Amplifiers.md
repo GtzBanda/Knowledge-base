@@ -31,4 +31,4 @@ When choosing an amplifier, musicians should consider where they plan to play, t
 
 ## Related Topics
 
-To continue learning about guitar equipment, explore [[Electric Guitar]], [[bass guitar]], [[Acoustic Guitar]], [[Overdrive Pedals]], [[Distortion Pedals]], and [[guitar maintenance]]. These topics explain how amplifiers work with different instruments and effects to create a wide variety of sounds.
+To continue learning about guitar equipment, explore [[electric guitar]], [[bass guitar]], [[acoustic guitar]], [[overdrive]], [[distortion]], and [[guitar maintenance]]. These topics explain how amplifiers work with different instruments and effects to create a wide variety of sounds.

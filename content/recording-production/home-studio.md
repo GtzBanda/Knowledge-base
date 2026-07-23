@@ -31,4 +31,4 @@ When creating a home studio, choose a quiet room with minimal background noise a
 
 ## Related Topics
 
-To continue learning about home recording, explore [[Audio Interfaces]], [[Digital Audio Workstations (DAWs)]], [[Microphones]], and [[Electric Guitar]]. These topics explain the equipment and techniques commonly used to create high-quality recordings.
+To continue learning about home recording, explore [[audio-interfaces]], [[daws]], [[microphones]], and [[electric guitar]]. These topics explain the equipment and techniques commonly used to create high-quality recordings.

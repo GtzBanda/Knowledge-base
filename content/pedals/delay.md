@@ -31,4 +31,4 @@ Delay pedals are commonly used for guitar solos, ambient passages, and clean rhy
 
 ## Related Topics
 
-To continue learning about guitar effects, explore [[Electric Guitar]], [[Guitar Amplifiers]], [[Chorus Pedals]], [[Rock]], [[Jazz]], and [[Live Performance Tips]]. These topics explain how delay pedals work with different instruments, effects, and musical styles to create unique sounds.
+To continue learning about guitar effects, explore [[electric guitar]], [[guitar amplifiers]], [[chorus]], [[rock]], [[Jazz]], and [[live-performance]]. These topics explain how delay pedals work with different instruments, effects, and musical styles to create unique sounds.

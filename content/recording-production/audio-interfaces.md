@@ -31,4 +31,4 @@ When selecting an audio interface, musicians should consider how many instrument
 
 ## Related Topics
 
-To continue learning about home recording, explore [[Home Studio Basics]], [[Digital Audio Workstations (DAWs)]], [[Microphones]], and [[Electric Guitar]]. These topics explain the equipment and software commonly used to create high-quality recordings.
+To continue learning about home recording, explore [[home-studio]], [[daws]], [[microphones]], and [[electric guitar]]. These topics explain the equipment and software commonly used to create high-quality recordings.

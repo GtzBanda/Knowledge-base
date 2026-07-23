@@ -19,7 +19,7 @@ Each topic is connected through internal links, making it easy to move between r
 
 ## Related Categories
 
-The topics in this section connect naturally with other areas of the knowledge base. Explore **[[Recording & Production]]** to learn how instruments are recorded and produced in a studio environment. You can also visit **[[Performances]]** to discover how musicians prepare for live shows, or **[[Guitar & Bass Pedals]]** to learn how effects can shape and enhance a musician's sound.
+The topics in this section connect naturally with other areas of the knowledge base. Explore **[[audio-interfaces]]** to learn how instruments are recorded and produced in a studio environment. You can also visit **[[live-performance]]** to discover how musicians prepare for live shows, or **[[pedals/index|pedals]]** to learn how effects can shape and enhance a musician's sound.
 
 ## Learning Resources
 

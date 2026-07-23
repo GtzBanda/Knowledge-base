@@ -32,4 +32,4 @@ Before a performance, musicians should test every piece of equipment, secure loo
 
 ## Related Topics
 
-To continue learning about live performances, explore [[Live Performance Tips]], [[Guitar Amplifiers]], [[Overdrive Pedals]], [[Distortion Pedals]], and [[Electric Guitar]]. These topics explain the equipment and preparation that help musicians perform with confidence.
+To continue learning about live performances, explore [[live-performance]], [[guitar amplifiers]], [[overdrive]], [[distortion]], and [[electric guitar]]. These topics explain the equipment and preparation that help musicians perform with confidence.

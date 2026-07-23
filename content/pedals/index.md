@@ -13,14 +13,14 @@ Each type of pedal serves a different purpose. Some increase gain, while others 
 
 This section of the knowledge base includes the following effects:
 
-- [[Overdrive Pedals]]
-- [[Distortion Pedals]]
-- [[Fuzz Pedals]]
-- [[Delay Pedals]]
-- [[Chorus Pedals]]
+- [[overdrive]]
+- [[distortion]]
+- [[fuzz]]
+- [[delay]]
+- [[chorus]]
 
 > "Effects pedals don't replace your tone—they help you shape it."
 
 ## Related Topics
 
-The pedals in this section are designed to work with other musical equipment. Explore [[Electric Guitar]], [[bass guitar]], and [[Guitar Amplifiers]] to learn how pedals shape an instrument's sound. You can also visit [[Rock]], [[Blues]], or [[Recording & Production]] to see how different effects are used in various musical styles and recording environments.
+The pedals in this section are designed to work with other musical equipment. Explore [[electric guitar]], [[bass guitar]], and [[guitar amplifiers]] to learn how pedals shape an instrument's sound. You can also visit [[rock]], [[blues]], or [[recording-production/index|recording-production]] to see how different effects are used in various musical styles and recording environments.

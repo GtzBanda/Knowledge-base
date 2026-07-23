@@ -11,11 +11,11 @@ This section explores the basics of live performance and stage setup for musicia
 
 ## Topics in this Section
 
-- [[Live Performance Tips]]
-- [[Stage Setup]]
+- [[live-performance]]
+- [[stage-setup]]
 
 > "A great performance starts long before the first note is played."
 
 ### Related Topics
 
-Continue learning by exploring [[electric guitar]], [[bass guitar]], [[guitar amplifiers]], and [[Delay Pedals]].
+Continue learning by exploring [[electric guitar]], [[bass guitar]], [[guitar amplifiers]], and [[delay]].

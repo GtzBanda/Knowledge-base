@@ -37,4 +37,4 @@ Some of the most influential blues musicians include:
 
 ## Related Topics
 
-To continue learning about blues music, explore [[Acoustic Guitar]], [[Electric Guitar]], [[Overdrive Pedals]], [[Rock]], and [[Guitar Amplifiers]]. These topics explain the instruments and equipment that have helped shape the classic blues sound.
+To continue learning about blues music, explore [[acoustic guitar]], [[electric guitar]], [[overdrive]], [[rock]], and [[guitar amplifiers]]. These topics explain the instruments and equipment that have helped shape the classic blues sound.

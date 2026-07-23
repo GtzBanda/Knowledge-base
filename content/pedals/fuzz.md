@@ -31,4 +31,4 @@ Fuzz pedals are ideal for players who want a bold, vintage-inspired guitar tone.
 
 ## Related Topics
 
-To continue learning about guitar effects, explore [[Electric Guitar]], [[Guitar Amplifiers]], [[Distortion Pedals]], [[Rock]], and [[Metal]]. These topics explain how fuzz pedals work alongside other effects and equipment to create a wide variety of powerful guitar sounds.
+To continue learning about guitar effects, explore [[electric guitar]], [[guitar amplifiers]], [[distortion]], [[rock]], and [[metal]]. These topics explain how fuzz pedals work alongside other effects and equipment to create a wide variety of powerful guitar sounds.

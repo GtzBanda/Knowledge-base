@@ -37,4 +37,4 @@ Metal has expanded into many subgenres, including:
 
 ## Related Topics
 
-To continue learning about metal music, explore [[Electric Guitar]], [[Distortion Pedals]], [[Fuzz Pedals]], [[Guitar Amplifiers]], and [[Rock]]. These topics explain the instruments and effects that help create the powerful sound associated with metal.
+To continue learning about metal music, explore [[electric guitar]], [[distortion]], [[fuzz]], [[guitar amplifiers]], and [[rock]]. These topics explain the instruments and effects that help create the powerful sound associated with metal.

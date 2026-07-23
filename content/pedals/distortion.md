@@ -31,4 +31,4 @@ Distortion pedals are commonly used for powerful rhythm guitar parts, lead solos
 
 ## Related Topics
 
-To continue learning about guitar effects, explore [[Electric Guitar]], [[Guitar Amplifiers]], [[Overdrive Pedals]], [[Metal]], and [[Rock]]. These topics explain how distortion is used alongside different instruments and equipment to create a wide range of powerful guitar tones.
+To continue learning about guitar effects, explore [[electric guitar]], [[guitar amplifiers]], [[overdrive]], [[metal]], and [[rock]]. These topics explain how distortion is used alongside different instruments and equipment to create a wide range of powerful guitar tones.
