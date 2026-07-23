@@ -2,10 +2,6 @@
 title: Delay Pedals
 date: 2026-07-22
 ---
----
-title: Delay Pedals
-date: 2026-07-22
----
 
 # Delay Pedals
 

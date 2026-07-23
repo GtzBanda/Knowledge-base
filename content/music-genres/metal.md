@@ -2,10 +2,6 @@
 title: Metal
 date: 2026-07-22
 ---
----
-title: Metal
-date: 2026-07-22
----
 
 # Metal
 

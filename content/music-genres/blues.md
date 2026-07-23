@@ -2,10 +2,6 @@
 title: Blues
 date: 2026-07-22
 ---
----
-title: Blues
-date: 2026-07-22
----
 
 # Blues
 

@@ -2,10 +2,6 @@
 title: Live Performance Tips
 date: 2026-07-22
 ---
----
-title: Live Performance Tips
-date: 2026-07-22
----
 
 # Live Performance Tips
 
@@ -35,4 +31,4 @@ A successful performance is about more than playing the correct notes. Musicians
 
 ## Related Topics
 
-To continue learning about live performances, explore [[Stage Setup]], [[Electric Guitar]], [[Bass Guitar]], [[Guitar Amplifiers]], and [[Delay Pedals]]. These topics explain the equipment and techniques that help musicians deliver a successful performance.
+To continue learning about live performances, explore [[Stage Setup]], [[Electric Guitar]], [[bass Guitar]], [[Guitar Amplifiers]], and [[Delay Pedals]]. These topics explain the equipment and techniques that help musicians deliver a successful performance.

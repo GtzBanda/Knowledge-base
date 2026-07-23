@@ -1,10 +1,8 @@
 ---
 title: Music Genres
----
----
-title: Music Genres
 date: 2026-07-22
 ---
+
 
 # Music Genres
 
@@ -23,4 +21,4 @@ Understanding different genres can also help musicians choose the right instrume
 
 ## Related Topics
 
-The genres in this section are closely connected to other parts of the knowledge base. Explore [[Electric Guitar]], [[Bass Guitar]], and [[Acoustic Guitar]] to learn about the instruments commonly used in these styles. You can also visit [[Guitar & Bass Pedals]] to discover how effects shape different sounds, or [[Recording & Production]] to see how music is captured and refined in the studio.
+The genres in this section are closely connected to other parts of the knowledge base. Explore [[Electric Guitar]], [[bass Guitar]], and [[Acoustic Guitar]] to learn about the instruments commonly used in these styles. You can also visit [[Guitar & Bass Pedals]] to discover how effects shape different sounds, or [[Recording & Production]] to see how music is captured and refined in the studio.

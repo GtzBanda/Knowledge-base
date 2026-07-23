@@ -2,10 +2,6 @@
 title: Digital Audio Workstations (DAWs)
 date: 2026-07-22
 ---
----
-title: Digital Audio Workstations (DAWs)
-date: 2026-07-22
----
 
 # Digital Audio Workstations (DAWs)
 

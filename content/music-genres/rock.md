@@ -2,10 +2,6 @@
 title: Rock
 date: 2026-07-22
 ---
----
-title: Rock
-date: 2026-07-22
----
 
 # Rock
 

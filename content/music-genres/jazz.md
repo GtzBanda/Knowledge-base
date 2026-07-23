@@ -2,10 +2,6 @@
 title: Jazz
 date: 2026-07-22
 ---
----
-title: Jazz
-date: 2026-07-22
----
 
 # Jazz
 

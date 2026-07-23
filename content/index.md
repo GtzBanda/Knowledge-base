@@ -1,10 +1,6 @@
 ---
 title: Jose Gutierrez Music Knowledge Base
 ---
----
-title: Jose Gutierrez Music
-date: 2026-07-22
----
 
 # Jose Gutierrez Music
 

@@ -1,4 +1,9 @@
-# Bass Guitar
+---
+title: Bass Guitar
+date: 2026-07-22
+---
+
+# bass guitar
 
 ![[bass-guitar.jpg]]
 

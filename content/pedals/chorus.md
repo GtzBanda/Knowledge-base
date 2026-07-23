@@ -2,10 +2,6 @@
 title: Chorus Pedals
 date: 2026-07-22
 ---
----
-title: Chorus Pedals
-date: 2026-07-22
----
 
 # Chorus Pedals
 
@@ -35,4 +31,4 @@ Chorus pedals work especially well with clean or lightly overdriven guitar tones
 
 ## Related Topics
 
-To continue learning about guitar effects, explore [[Electric Guitar]], [[Bass Guitar]], [[Delay Pedals]], [[Rock]], and [[Live Performance Tips]]. These topics explain how chorus pedals are used alongside other equipment to create a wide variety of sounds.
+To continue learning about guitar effects, explore [[Electric Guitar]], [[bass Guitar]], [[Delay Pedals]], [[Rock]], and [[Live Performance Tips]]. These topics explain how chorus pedals are used alongside other equipment to create a wide variety of sounds.

@@ -31,4 +31,4 @@ Even small mistakes can shorten the life of a guitar. Avoid leaving your instrum
 
 ## Related Topics
 
-Proper maintenance is important for every type of guitar. Continue learning by exploring [[Acoustic Guitar]], [[Electric Guitar]], [[Bass Guitar]], [[Guitar Amplifiers]], and [[Overdrive Pedals]]. Understanding how to care for both your instrument and equipment helps ensure reliable performance and great sound.
+Proper maintenance is important for every type of guitar. Continue learning by exploring [[Acoustic Guitar]], [[Electric Guitar]], [[bass Guitar]], [[Guitar Amplifiers]], and [[Overdrive Pedals]]. Understanding how to care for both your instrument and equipment helps ensure reliable performance and great sound.

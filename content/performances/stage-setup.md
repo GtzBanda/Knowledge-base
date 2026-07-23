@@ -2,10 +2,6 @@
 title: Stage Setup
 date: 2026-07-22
 ---
----
-title: Stage Setup
-date: 2026-07-22
----
 
 # Stage Setup
 

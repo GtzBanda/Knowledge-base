@@ -2,10 +2,6 @@
 title: Home Studio Basics
 date: 2026-07-22
 ---
----
-title: Home Studio Basics
-date: 2026-07-22
----
 
 # Home Studio Basics
 

@@ -2,10 +2,6 @@
 title: Fuzz Pedals
 date: 2026-07-22
 ---
----
-title: Fuzz Pedals
-date: 2026-07-22
----
 
 # Fuzz Pedals
 

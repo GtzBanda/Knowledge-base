@@ -2,10 +2,6 @@
 title: Distortion Pedals
 date: 2026-07-22
 ---
----
-title: Distortion Pedals
-date: 2026-07-22
----
 
 # Distortion Pedals
 

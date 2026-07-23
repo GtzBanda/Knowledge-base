@@ -2,10 +2,6 @@
 title: Microphones
 date: 2026-07-22
 ---
----
-title: Microphones
-date: 2026-07-22
----
 
 # Microphones
 

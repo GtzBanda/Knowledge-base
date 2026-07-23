@@ -2,7 +2,6 @@
 title: Acoustic Guitar
 date: 2026-07-22
 ---
-
 # Acoustic Guitar
 
 ![Acoustic Guitar](../images/guitar.jpg)
@@ -31,4 +30,4 @@ Acoustic guitars are used in many different situations. They are a popular choic
 
 ## Related Topics
 
-If you'd like to continue learning about guitars and the equipment that goes with them, explore [[electric guitar]], [[Bass Guitar]], [[guitar amplifiers]], and [[guitar maintenance]]. These topics explain the differences between guitar types, how amplification works, and the best ways to keep an instrument in excellent condition.
+If you'd like to continue learning about guitars and the equipment that goes with them, explore [[electric guitar]], [[bass Guitar]], [[guitar amplifiers]], and [[guitar maintenance]]. These topics explain the differences between guitar types, how amplification works, and the best ways to keep an instrument in excellent condition.
