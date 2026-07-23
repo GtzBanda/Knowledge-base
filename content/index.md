@@ -18,6 +18,6 @@ This knowledge base covers a variety of music-related topics, including guitars,
 - [[pedals/index|Guitar & Bass Pedals]]
 - [[recording-production/index|Recording & Production]]
 - [[performances/index|Performances]]
-- - [[references|References]]
+- [[references|References]]
 
 > "Music is a lifelong journey of learning, creativity, and performance."
