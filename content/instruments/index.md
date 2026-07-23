@@ -11,11 +11,11 @@ Each topic is connected through internal links, making it easy to move between r
 
 ## Topics Covered
 
-- [[Acoustic Guitar]]
-- [[Electric Guitar]]
+- [[acoustic guitar]]
+- [[electric guitar]]
 - [[bass guitar]]
-- [[Guitar Amplifiers]]
-- [[Guitar Maintenance]]
+- [[guitar amplifiers]]
+- [[guitar maintenance]]
 
 ## Related Categories
 

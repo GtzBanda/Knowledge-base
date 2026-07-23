@@ -12,10 +12,10 @@ Understanding different genres can also help musicians choose the right instrume
 
 ## Topics Covered
 
-- [[Rock]]
-- [[Blues]]
-- [[Jazz]]
-- [[Metal]]
+- [[rock]]
+- [[blues]]
+- [[jazz]]
+- [[metal]]
 
 > "Every genre tells a different story through music."
 

@@ -2,7 +2,6 @@
 title: Jose Gutierrez Music Knowledge Base
 date: 2026-07-22
 ---
-
 # Jose Gutierrez Music
 
 Welcome to my music knowledge base. This site explores the instruments, musical styles, recording techniques, and equipment that musicians use to create, perform, and produce music. Each section is connected through internal links, making it easy to navigate between related topics and continue learning.

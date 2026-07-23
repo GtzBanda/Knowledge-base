@@ -16,7 +16,7 @@ This section of the knowledge base includes the following topics:
 - [[home-studio]]
 - [[audio-interfaces]]
 - [[daws]]
-- [[Microphones]]
+- [[microphones]]
 
 > "Great recordings begin with good preparation and the right equipment."
 
