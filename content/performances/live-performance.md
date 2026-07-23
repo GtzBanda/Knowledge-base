@@ -31,4 +31,4 @@ A successful performance is about more than playing the correct notes. Musicians
 
 ## Related Topics
 
-To continue learning about live performances, explore [[Stage Setup]], [[Electric Guitar]], [[bass Guitar]], [[Guitar Amplifiers]], and [[Delay Pedals]]. These topics explain the equipment and techniques that help musicians deliver a successful performance.
+To continue learning about live performances, explore [[Stage Setup]], [[Electric Guitar]], [[bass guitar]], [[Guitar Amplifiers]], and [[Delay Pedals]]. These topics explain the equipment and techniques that help musicians deliver a successful performance.

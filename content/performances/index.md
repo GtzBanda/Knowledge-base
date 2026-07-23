@@ -18,4 +18,4 @@ This section explores the basics of live performance and stage setup for musicia
 
 ### Related Topics
 
-Continue learning by exploring [[electric guitar]], [[bass Guitar]], [[guitar amplifiers]], and [[Delay Pedals]].
+Continue learning by exploring [[electric guitar]], [[bass guitar]], [[guitar amplifiers]], and [[Delay Pedals]].

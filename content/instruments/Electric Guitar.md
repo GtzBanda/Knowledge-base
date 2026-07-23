@@ -31,4 +31,4 @@ One of the biggest advantages of an electric guitar is its flexibility. Musician
 
 ## Related Topics
 
-To continue learning about electric guitars, explore [[Acoustic Guitar]], [[guitar amplifiers]], [[Overdrive Pedals]], [[Distortion Pedals]], [[bass Guitar]], and [[guitar maintenance]]. These topics explain the equipment, effects, and maintenance that help musicians get the most out of their instrument.
+To continue learning about electric guitars, explore [[Acoustic Guitar]], [[guitar amplifiers]], [[Overdrive Pedals]], [[Distortion Pedals]], [[bass guitar]], and [[guitar maintenance]]. These topics explain the equipment, effects, and maintenance that help musicians get the most out of their instrument.

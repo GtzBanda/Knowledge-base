@@ -13,7 +13,7 @@ Each topic is connected through internal links, making it easy to move between r
 
 - [[Acoustic Guitar]]
 - [[Electric Guitar]]
-- [[bass Guitar]]
+- [[bass guitar]]
 - [[Guitar Amplifiers]]
 - [[Guitar Maintenance]]
 

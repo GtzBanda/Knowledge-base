@@ -22,4 +22,4 @@ This section of the knowledge base includes the following topics:
 
 ## Related Topics
 
-Recording and production work closely with many other areas of music. Explore [[Electric Guitar]], [[bass Guitar]], and [[Guitar Amplifiers]] to learn about the instruments and equipment commonly used in recordings. You can also visit [[Live Performance Tips]] to see how musicians prepare for performances before bringing those ideas into the recording studio.
+Recording and production work closely with many other areas of music. Explore [[Electric Guitar]], [[bass guitar]], and [[Guitar Amplifiers]] to learn about the instruments and equipment commonly used in recordings. You can also visit [[Live Performance Tips]] to see how musicians prepare for performances before bringing those ideas into the recording studio.
