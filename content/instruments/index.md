@@ -2,7 +2,6 @@
 title: Instruments
 date: 2026-07-22
 ---
-
 # Instruments
 
 The Instruments section introduces the core equipment used by guitarists and bass players. Whether you're just beginning to learn or expanding your musical knowledge, understanding the different types of guitars, amplifiers, and maintenance techniques provides a strong foundation for exploring the rest of this knowledge base.
@@ -11,11 +10,11 @@ Each topic is connected through internal links, making it easy to move between r
 
 ## Topics Covered
 
-- [[acoustic guitar]]
-- [[electric guitar]]
+- [[Acoustic Guitar]]
+- [[Electric Guitar]]
 - [[bass guitar]]
-- [[guitar amplifiers]]
-- [[guitar maintenance]]
+- [[Guitar Amplifiers]]
+- [[Guitar Maintenance]]
 
 ## Related Categories
 

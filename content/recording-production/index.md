@@ -2,7 +2,6 @@
 title: Recording and Production
 date: 2026-07-22
 ---
-
 # Recording & Production
 
 Recording and music production allow musicians to capture, edit, and share their performances. Modern technology has made it possible for artists to create professional-quality recordings from home using a computer, an audio interface, microphones, and recording software.
@@ -16,7 +15,7 @@ This section of the knowledge base includes the following topics:
 - [[home-studio]]
 - [[audio-interfaces]]
 - [[daws]]
-- [[microphones]]
+- [[Microphones]]
 
 > "Great recordings begin with good preparation and the right equipment."
 

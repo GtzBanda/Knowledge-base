@@ -2,7 +2,6 @@
 title: Performances
 date: 2026-07-22
 ---
-
 # Performances
 
 Performing live is one of the most rewarding parts of being a musician. Whether playing for a small audience or a large crowd, preparation and organization can make a big difference in the quality of a performance. From setting up equipment to managing stage presence, every detail contributes to a successful show.

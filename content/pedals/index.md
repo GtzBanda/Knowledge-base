@@ -2,7 +2,6 @@
 title: Guitar & Bass Pedals
 date: 2026-07-22
 ---
-
 # Guitar & Bass Pedals
 
 Guitar and bass pedals are electronic effects that allow musicians to shape and customize their sound. Whether adding light overdrive, heavy distortion, or spacious delay effects, pedals give players endless possibilities for creating unique tones. They are commonly used during live performances, studio recordings, and everyday practice sessions.
