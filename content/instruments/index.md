@@ -1,11 +1,15 @@
 ---
 title: Instruments
+date: 2026-07-22
 ---
+
 # Instruments
 
-Welcome to the Instruments section of this knowledge base. This category introduces several types of guitars, the equipment commonly used with them, and basic maintenance practices. Each page is connected through internal links, making it easy to explore related topics and learn more about how these instruments are used and cared for.
+The Instruments section introduces the core equipment used by guitarists and bass players. Whether you're just beginning to learn or expanding your musical knowledge, understanding the different types of guitars, amplifiers, and maintenance techniques provides a strong foundation for exploring the rest of this knowledge base.
 
-## Topics
+Each topic is connected through internal links, making it easy to move between related subjects and discover how instruments, equipment, and playing techniques work together.
+
+## Topics Covered
 
 - [[Acoustic Guitar]]
 - [[Electric Guitar]]
@@ -15,13 +19,16 @@ Welcome to the Instruments section of this knowledge base. This category introdu
 
 ## Related Categories
 
-Musical instruments are closely connected to [[Recording and Production]], where performances are recorded and refined into professional-quality productions. Instruments also play an important role in [[Performances]], where musicians bring songs to life for live audiences.
+The topics in this section connect naturally with other areas of the knowledge base. Explore **[[Recording & Production]]** to learn how instruments are recorded and produced in a studio environment. You can also visit **[[Performances]]** to discover how musicians prepare for live shows, or **[[Guitar & Bass Pedals]]** to learn how effects can shape and enhance a musician's sound.
 
-## Learning Resources 
+## Learning Resources
 
-The image below shows beginner guitar players learning some of the most common guitar chords. 
+The image below shows beginner guitar players practicing some of the most common guitar chords used in popular music.
+
 ![[assets/learning.jpg]]
 
-## Basic Guitar Chord Chart 
+## Basic Guitar Chord Chart
 
-The following PDF provides a quick reference to common guitar chords that beginners can practice. ![[assets/chords.pdf]]
+The following PDF provides a quick reference to common guitar chords that beginners can practice while learning their first songs.
+
+![[assets/chords.pdf]]

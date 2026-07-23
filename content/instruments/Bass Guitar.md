@@ -22,4 +22,4 @@ The bass guitar contributes to music by:
 
 ### Related Topics
 
-The bass guitar shares many similarities with the [[Electric Guitar]], especially when it comes to electronics and amplification. Most bass players rely on [[Guitar Amplifiers]] or dedicated bass amplifiers to project their sound. Learning proper [[Guitar Maintenance]] helps extend the life of any instrument, while understanding the [[Acoustic Guitar]] provides a broader appreciation for the different types of guitars available.
+The bass guitar shares many similarities with the [[electric guitar]], especially when it comes to electronics and amplification. Most bass players rely on [[guitar amplifiers]] or dedicated bass amplifiers to project their sound. Learning proper [[guitar maintenance]] helps extend the life of any instrument, while understanding the [[acoustic guitar]] provides a broader appreciation for the different types of guitars available.
